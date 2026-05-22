@@ -202,6 +202,7 @@
 5. **TutorialsPoint - Django Tutorial** - [tutorialspoint.com](https://www.tutorialspoint.com/django/)  
 6. **JavaTpoint - Django Tutorial** - [javatpoint.com](https://www.javatpoint.com/django-tutorial)  
 7. **Django Marcador** - [django-marcador.keimlink.de](http://django-marcador.keimlink.de/)  
+8. [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ---
 
