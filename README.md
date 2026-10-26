@@ -35,6 +35,7 @@
 - **[Black Dashboard Django](https://github.com/creativetimofficial/black-dashboard-django)** - Open-source Django Template.
 - **[Django Unfold](https://github.com/unfoldadmin/django-unfold)** - Modern Django admin theme for seamless interface development.
 - **[Django Daisy](https://github.com/hypy13/django-daisy)** - Mobile-friendly Django admin theme built with DaisyUI (TailwindCSS).
+- **[django-vantage](https://github.com/Pythondeveloper6/django-vantage)** - Smart, modern admin panel for Django with zero config to start. [D 5.2, 6.0, 6.1]
 
 ### Admin Extensions & Functional Enhancements
 
@@ -144,6 +145,7 @@
 1. **[django-celery](https://github.com/celery/django-celery)** - Integrates Celery with Django for background tasks and task queues.  
 2. **[django-background-tasks](https://github.com/arteria/django-background-tasks)** - A simpler background task processing library for Django.  
 3. **[django-q](https://github.com/Koed00/django-q)** - Multi-queue system for Django to handle asynchronous tasks.  
+4. **[celery-manager](https://github.com/Pythondeveloper6/celery-manager)** - Dashboard and REST API for Celery tasks, with pause/cancel of a single future run of a periodic task.  
 
 ---
 
